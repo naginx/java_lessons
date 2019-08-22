@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Blackjack",
+            "request": "launch",
+            "mainClass": "Blackjack"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyApp",
+            "request": "launch",
+            "mainClass": "MyApp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sample",
+            "request": "launch",
+            "mainClass": "sample"
+        }
+    ]
+}
